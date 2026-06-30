@@ -1,0 +1,11 @@
+===== STUDENT PERFORMANCE REPORT =====
+
+Math Average: 79.70
+Science Average: 80.80
+English Average: 81.30
+Math Highest: 95.00
+Science Highest: 93.00
+English Highest: 97.00
+Math Lowest: 60.00
+Science Lowest: 65.00
+English Lowest: 58.00
