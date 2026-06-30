@@ -107,7 +107,7 @@ report/report.txt
 
 | Name | Math | Science | English | Attendance |
 |------|------|---------|---------|------------|
-| Jeet | 85 | 78 | 90 | 92 |
+| Harsh | 85 | 78 | 90 | 92 |
 | Rahul | 75 | 82 | 80 | 88 |
 | Priya | 92 | 89 | 95 | 96 |
 
